@@ -1,1 +1,1 @@
-# api-doc-template
+# DIP Bundestag API
